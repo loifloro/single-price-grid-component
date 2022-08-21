@@ -10,8 +10,12 @@ body {
 }
 
 h1 {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   margin: 1.5rem 0;
+}
+
+footer {
+  color: white;
 }
 
 .heading{
@@ -20,13 +24,13 @@ h1 {
   }
   
   &__subtitle {
-    font-size: 1.4rem;
+    // font-size: 1.4rem;
     color: $yellow;
   }
 
   &__body {
     line-height: 1.5;
-    font-size: 1.2rem;
+    // margin-bottom: 0;
   }
 }
 
@@ -53,7 +57,7 @@ h1 {
 
   &__body {
     color: $gray;
-    font-size: 1.2rem;
+    // font-size: 1.2rem;
   }
 }
 
@@ -62,6 +66,7 @@ h1 {
     color: white;
   }
   &__list {
+    font-size: small;
     color: $gray;
     line-height: 1.5;
   }
