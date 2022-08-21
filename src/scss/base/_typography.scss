@@ -1,0 +1,70 @@
+/**
+ * Basic typography style for copy text
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+
+body {
+  color: $gray-blue;
+  font: normal 1rem Karla , san-serif; 
+}
+
+h1 {
+  font-size: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.heading{
+  &__title {
+    color: $cyan;
+  }
+  
+  &__subtitle {
+    font-size: 1.4rem;
+    color: $yellow;
+  }
+
+  &__body {
+    line-height: 1.5;
+    font-size: 1.2rem;
+  }
+}
+
+.subscription {
+
+  &__title {
+    color: $gray;
+  }
+
+  &__price {
+    color: white;
+    font-size: 2.5rem;
+    font-weight: 700;
+    vertical-align: middle;
+  }
+
+  &__month {
+    color: lighten($gray-blue, 10);
+    font-weight: lighter;
+    font-size: 1rem;
+    vertical-align: middle;
+    margin: 0 .5rem;
+  }
+
+  &__body {
+    color: $gray;
+    font-size: 1.2rem;
+  }
+}
+
+.about {
+  &__title {
+    color: white;
+  }
+  &__list {
+    color: $gray;
+    line-height: 1.5;
+  }
+}
+
+
