@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/loifloro/single-price-grid-component-master)
+- Live Site URL: [Github](https://loifloro.github.io/single-price-grid-component-master/dist/)
 
 ## My process
 
