@@ -467,6 +467,9 @@ main > * {
 @media (min-width: 768px) {
   .heading {
     grid-column: span 2; } }
+footer {
+  align-self: end; }
+
 body {
   background: #b7c1d1; }
 
