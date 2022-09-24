@@ -367,6 +367,7 @@ footer {
 }
 .heading__body {
   line-height: 1.5;
+  font-size: 0.9rem;
 }
 
 .subscription__title {
