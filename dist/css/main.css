@@ -350,7 +350,7 @@ body {
   font: normal 1rem Karla, san-serif;
 }
 
-h1 {
+h1, h2 {
   font-size: 1.2rem;
   margin: 1.5rem 0;
 }
