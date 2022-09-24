@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./dist/images/screenshot.jpg)
+![](./dist/assets/images/screenshot.jpg)
 
 
 ### Links
