@@ -2,10 +2,8 @@ body {
     display: grid;
     align-items: center;
     justify-content: center;
+    height: 100vh;
     
-    @media (min-width: map-get($breakpoints, 'large' )) {
-        height: 100vh;
-    }
 }
 
 main {
@@ -17,7 +15,7 @@ main {
     overflow: hidden;
 
     @media (min-width: map-get($breakpoints, 'large' )) {
-        max-width: calc(100vw - 55vw);
+        max-width: 575px;
     }
 
     
